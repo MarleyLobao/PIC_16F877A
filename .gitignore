@@ -50,3 +50,20 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Output Files CCS Projects
+*.cof
+*.err
+*.xsym
+*.esym
+*.osym
+*.lst
+*.tre
+*.STA
+*.o
+*.sym
+__history/
+
+# Project File CCS
+.ccsprj
+
