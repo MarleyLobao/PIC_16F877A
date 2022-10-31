@@ -65,5 +65,5 @@ dkms.conf
 __history/
 
 # Project File CCS
-.ccsprj
+*.ccspjt
 
