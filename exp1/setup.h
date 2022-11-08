@@ -8,4 +8,4 @@
 
 #use delay(crystal=4000000)
 
-#include <peripheral_segments.c>
+#include <blink_leds.c>

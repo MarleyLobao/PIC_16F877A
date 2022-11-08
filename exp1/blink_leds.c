@@ -1,4 +1,4 @@
-#include <peripheral_segments.h>
+#include <blink_leds.h>
 
 void initial_setup(void){
    //Activating transistor Q1
