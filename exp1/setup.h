@@ -1,3 +1,6 @@
+#ifndef SETUP_H
+#define SETUP_H
+
 #include <16F877A.h>
 
 #device ADC=16
@@ -9,3 +12,5 @@
 #use delay(crystal=4000000)
 
 #include <blink_leds.c>
+
+#endif
