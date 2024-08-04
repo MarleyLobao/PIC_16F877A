@@ -1,8 +1,9 @@
-# PIC_CCS_Experiments
-This repository is just a collection of experiments performed in the Digital Systems Architecture Lab course.
+# PIC_16F877A
+This repository contains some small projects performed with the PIC 16F877A on a McLab2 board during the Digital Systems Architecture Laboratory course.
 
 ## Summary of the topics covered:
 `exp1` - PIC GPIO
+`exp2` - PIC Timer, 7 Segments Display and LCD
 
 It was used in the experiments:
 - `PIC16F877A microcontroller`
