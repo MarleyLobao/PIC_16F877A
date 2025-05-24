@@ -11,7 +11,7 @@
 
 #use delay(crystal=4000000)
 
-#include "lcd_16x2.c"
+#include "..\general_libs\lcd_16x2.c"
 #include "timer_w_lcd.c"
 #include "display7seg.c"
 
