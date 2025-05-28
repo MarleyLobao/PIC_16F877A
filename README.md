@@ -4,6 +4,7 @@ This repository contains some small projects performed with the PIC 16F877A on a
 ## Summary of the topics covered:
 - `exp1` PIC GPIO
 - `exp2` PIC Timer, 7-Segment Display and LCD
+- `exp3` PIC ADC and PWM
 
 It was used in the experiments:
 - `PIC16F877A microcontroller`
